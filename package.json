@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.5.2",
+    "file-icons-js": "github:websemantics/file-icons-js",
     "react": "^16.11.0",
+    "react-circular-progressbar": "^2.0.3",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-dropzone": "^10.1.10",
+    "react-dropzone-component": "^3.2.0",
+    "react-file-icon": "^0.2.0",
+    "react-scripts": "3.2.0",
+    "socket.io-client": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
